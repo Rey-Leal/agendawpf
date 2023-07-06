@@ -1,0 +1,19 @@
+d:\reinaldo\documents\visual studio 2010\Projects\AgendaWpf\AgendaWpf\bin\Debug\AgendaWpf.exe
+d:\reinaldo\documents\visual studio 2010\Projects\AgendaWpf\AgendaWpf\bin\Debug\AgendaWpf.pdb
+d:\reinaldo\documents\visual studio 2010\Projects\AgendaWpf\AgendaWpf\bin\Debug\WPFToolkit.dll
+d:\reinaldo\documents\visual studio 2010\Projects\AgendaWpf\AgendaWpf\bin\Debug\WPFToolkit.pdb
+d:\reinaldo\documents\visual studio 2010\Projects\AgendaWpf\AgendaWpf\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\reinaldo\documents\visual studio 2010\Projects\AgendaWpf\AgendaWpf\obj\x86\Debug\App.g.cs
+d:\reinaldo\documents\visual studio 2010\Projects\AgendaWpf\AgendaWpf\obj\x86\Debug\AgendaWpf_MarkupCompile.cache
+d:\reinaldo\documents\visual studio 2010\Projects\AgendaWpf\AgendaWpf\obj\x86\Debug\AgendaWpf.g.resources
+d:\reinaldo\documents\visual studio 2010\Projects\AgendaWpf\AgendaWpf\obj\x86\Debug\AgendaWpf.Properties.Resources.resources
+d:\reinaldo\documents\visual studio 2010\Projects\AgendaWpf\AgendaWpf\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\reinaldo\documents\visual studio 2010\Projects\AgendaWpf\AgendaWpf\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\reinaldo\documents\visual studio 2010\Projects\AgendaWpf\AgendaWpf\obj\x86\Debug\AgendaWpf.exe
+d:\reinaldo\documents\visual studio 2010\Projects\AgendaWpf\AgendaWpf\obj\x86\Debug\AgendaWpf.pdb
+d:\reinaldo\documents\visual studio 2010\Projects\AgendaWpf\AgendaWpf\obj\x86\Debug\WpfContatos.baml
+d:\reinaldo\documents\visual studio 2010\Projects\AgendaWpf\AgendaWpf\obj\x86\Debug\WpfEdicaoContatos.baml
+d:\reinaldo\documents\visual studio 2010\Projects\AgendaWpf\AgendaWpf\obj\x86\Debug\WpfContatos.g.cs
+d:\reinaldo\documents\visual studio 2010\Projects\AgendaWpf\AgendaWpf\obj\x86\Debug\WpfEdicaoContatos.g.cs
+D:\Reinaldo\Documentos\Projects Desktop\AgendaWpf\AgendaWpf\obj\x86\Debug\AgendaWpf.exe
+D:\Reinaldo\Documentos\Projects Desktop\AgendaWpf\AgendaWpf\obj\x86\Debug\AgendaWpf.pdb
